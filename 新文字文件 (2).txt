@@ -1,0 +1,24 @@
+﻿蘋果	<h1 id="h1">
+http://www.appledaily.com.tw/
+
+自由	<h1>
+http://www.ltn.com.tw/
+
+聯合	<h1 id="story_art_title">
+http://udn.com
+
+中時	<h1>
+http://www.chinatimes.com/
+
+聯合財經	<h2 id="story_art_title">
+http://money.udn.com/
+
+
+必要
+content script取得DOM，傳給background/popup
+
+chrome.browserAction.onClicked.addListener
+chrome.runtime.onMessage.addListener
+Regex
+sendResponse(document.all[0].outerHTML);
+chrome.tabs.sendMessage
