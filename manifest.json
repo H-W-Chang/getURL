@@ -37,6 +37,20 @@
         "webNavigation",
         "tabs",
         "<all_urls>"
-    ]
+    ],
+    "commands": {
+        "get_URL": {
+            "suggested_key": "Ctrl+Shift+A",
+            "description": "Copy title"
+        },
+        "get_URL_title": {
+            "suggested_key": "Ctrl+Shift+Z",
+            "description": "Copy URL and title"
+        },
+        "get_URL_title_content": {
+            "suggested_key": "Ctrl+Shift+X",
+            "description": "Copy URL, title and content"
+        }
+    }
 }
 
